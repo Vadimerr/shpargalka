@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 int main(void)
-
+// объявление переменных
 	{
 		int a;
 		int b = 32;
